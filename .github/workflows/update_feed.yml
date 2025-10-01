@@ -33,8 +33,9 @@ jobs:
         git config --global user.name "GitHub Actions"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git remote set-url origin https://github.com/rkoens/ease.git  # Reset to HTTPS URL for clean push
-        echo "Pushing to repository using the following remote URL:"
-        git remote -v  # Print remote URL again to ensure it's correct
-        git add feed.xml
+        
+        # Add both feed.xml and processed_documents.json to the commit
+        git add feed.xml processed_documents.json
+
         git commit -m "Updated RSS feed with new documents"
         git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/rkoens/ease.git HEAD:main  # Push with token for authentication
