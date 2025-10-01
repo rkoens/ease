@@ -46,6 +46,3 @@ jobs:
         git add feed.xml
         git commit -m "Updated RSS feed with new documents"
         git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/rkoens/ease.git HEAD:main  # Push with token for authentication
-        git add feed.xml
-        git commit -m "Updated RSS feed with new documents"
-        git push origin HEAD:main  # Ensure it pushes to the correct branch (e.g., 'main')
