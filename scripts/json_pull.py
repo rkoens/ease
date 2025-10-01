@@ -38,7 +38,7 @@ headers = {
 def load_existing_documents():
     if os.path.exists("processed_documents.json"):
         with open("processed_documents.json", "r") as f:
-            return set(json.load(f))  # A set of tuples (publishedDocumentId, disclosureDate, disclosureType)
+            return set(json.load(f))
     return set()
 
 # Save new document information to prevent duplicates
@@ -138,6 +138,7 @@ def fetch_data():
 # Run the script to fetch and update the RSS feed
 if __name__ == "__main__":
     fetch_data()
+
 
 
 
