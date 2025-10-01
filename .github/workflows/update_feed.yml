@@ -27,14 +27,15 @@ jobs:
         python scripts/json_pull.py  # Run the json_pull.py script directly
 
     - name: Commit and push changes
-      env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Use the GitHub token stored in secrets
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git remote set-url origin https://github.com/rkoens/ease.git  # Reset to HTTPS URL for clean push
-        
-        # Add feed.xml only to the commit
-        git add feed.xml
-        git commit -m "Updated RSS feed with new documents"
-        git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/rkoens/ease.git HEAD:main  # Push with token for authentication
+        git remote set-url origin https://github.com/rkoens/ease.git # Reset to HTTPS URL for clean push
+    
+        if git diff --exit-code; then
+          echo "No changes to commit."
+        else
+          git add feed.xml
+          git commit -m "Updated RSS feed with new documents"
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/rkoens/ease.git HEAD:main
+        fi
