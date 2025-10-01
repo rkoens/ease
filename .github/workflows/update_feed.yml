@@ -29,10 +29,11 @@ jobs:
     - name: Clear cached credentials
       run: |
         git credential-manager-core erase https://github.com
-      continue-on-error: true  # Ensures that it doesn't break the workflow if there's no cache to clear
+      continue-on-error: true  # Ensures that the workflow doesn't fail if there's no cached credential
 
     - name: Print token for debug (for troubleshooting, remove this in production)
-      run: echo "GitHub Token: ${{ secrets.GH_TOKEN }}"  # Print the token to debug, ensure it's working
+      run: |
+        echo "GitHub Token: ${{ secrets.GH_TOKEN }}"  # Print the token to debug, ensure it's working
       continue-on-error: true  # Don't fail the workflow if printing fails
 
     - name: Commit and push changes
