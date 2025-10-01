@@ -49,13 +49,15 @@ def fetch_data():
     new_documents = []
     last_processed_doc_id = None
 
-    # Get total pages dynamically (fetch only the first page initially)
+    # Get total pages dynamically (fetch only the first few pages initially)
     response = requests.get(url, headers=headers, params=querystring)
     total_pages = response.json().get("totalPages", 0)
     
-    # Start from the most recent documents
+    # For testing purposes, limit to 2 pages
+    max_pages_to_check = 2
     page_num = 0
-    while True:
+
+    while page_num < max_pages_to_check:
         querystring['page'] = str(page_num)
         response = requests.get(url, headers=headers, params=querystring)
 
@@ -85,9 +87,18 @@ def fetch_data():
             print(f"Failed to fetch page {page_num}, Status Code: {response.status_code}")
             break  # Exit the loop on error
 
+    # Create or update the RSS feed with new documents
+    if new_documents:
+        create_rss_feed(new_documents)
+
     # Save updated document information to prevent re-processing
     save_processed_documents(existing_documents)
 
 # Run the script to fetch and update the RSS feed
 if __name__ == "__main__":
+    fetch_data()
+
+# Run the script to fetch and update the RSS feed
+if __name__ == "__main__":
+
     fetch_data()
