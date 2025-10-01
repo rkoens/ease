@@ -24,7 +24,7 @@ jobs:
 
     - name: Run script to fetch and update RSS feed
       run: |
-        python scripts/example_json_pull.py  # Fetch the new data
+        python scripts/json_pull.py  # Fetch the new data
         python scripts/create_rss_feed.py    # Update the RSS feed with new data
 
     - name: Commit and push changes
