@@ -2,6 +2,7 @@ import requests
 import json
 import feedgenerator
 import os
+import datetime
 
 # URL for fetching the documents
 url = "https://ec.europa.eu/transparency/documents-request/api/portal/search/criteria"
@@ -127,4 +128,5 @@ def fetch_data():
 # Run the script to fetch and update the RSS feed
 if __name__ == "__main__":
     fetch_data()
+
 
