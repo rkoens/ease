@@ -58,12 +58,18 @@ def create_rss_feed(documents):
         # Generate the document link using the publishedDocumentId
         doc_link = f"https://ec.europa.eu/transparency/documents-request/search/document-details/{doc['publishedDocumentId']}"
         
+        # Convert disclosureDate string to datetime object
+        try:
+            disclosure_date = datetime.datetime.strptime(doc['disclosureDate'], "%Y-%m-%d").date()
+        except ValueError:
+            disclosure_date = datetime.datetime.now().date()  # Default to current date if parsing fails
+
         # Add each document as an RSS feed item
         feed.add_item(
             title=doc['documentTitle'],
             link=doc_link,
             description=doc['documentTitle'],
-            pubdate=doc['disclosureDate'],
+            pubdate=disclosure_date,
             unique_id=doc['publishedDocumentId'],
             categories=[doc['disclosureType']],
         )
@@ -132,6 +138,7 @@ def fetch_data():
 # Run the script to fetch and update the RSS feed
 if __name__ == "__main__":
     fetch_data()
+
 
 
 
