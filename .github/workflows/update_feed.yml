@@ -26,11 +26,6 @@ jobs:
       run: |
         python scripts/json_pull.py  # Run the json_pull.py script directly
 
-    - name: Print token for debug (for troubleshooting, remove this in production)
-      run: |
-        echo "GitHub Token: ${{ secrets.GH_TOKEN }}"  # Print the token to debug, ensure it's working
-      continue-on-error: true  # Don't fail the workflow if printing fails
-
     - name: Commit and push changes
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Use the GitHub token stored in secrets
