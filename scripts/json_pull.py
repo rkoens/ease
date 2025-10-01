@@ -95,7 +95,7 @@ def fetch_data():
     total_pages = response.json().get("totalPages", 0)
     
     # For testing purposes, limit to 2 pages
-    max_pages_to_check = 15
+    max_pages_to_check = 5
     page_num = 0
 
     while page_num < max_pages_to_check:
@@ -138,6 +138,7 @@ def fetch_data():
 # Run the script to fetch and update the RSS feed
 if __name__ == "__main__":
     fetch_data()
+
 
 
 
