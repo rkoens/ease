@@ -26,6 +26,14 @@ jobs:
       run: |
         python scripts/json_pull.py  # Run the json_pull.py script directly
 
+    # Debugging Step: Print out the Git remote URL to verify authentication
+    - name: Verify remote URL and token usage
+      run: |
+        echo "Remote URL for git push:"
+        git remote -v  # Prints the remote URL to verify it includes the token
+        echo "Git config user:"
+        git config --list  # Verify user config is correct (ensure GitHub Actions user is set)
+
     - name: Commit and push changes
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Use the GitHub token stored in secrets
@@ -33,6 +41,8 @@ jobs:
         git config --global user.name "GitHub Actions"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/rkoens/ease.git  # Use token for authentication
+        echo "Pushing to repository using the following remote URL:"
+        git remote -v  # Print remote URL again to ensure it's correct
         git add feed.xml
         git commit -m "Updated RSS feed with new documents"
         git push origin HEAD:main  # Ensure it pushes to the correct branch (e.g., 'main')
