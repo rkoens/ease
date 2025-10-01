@@ -26,19 +26,6 @@ jobs:
       run: |
         python scripts/json_pull.py  # Run the json_pull.py script directly
 
-    # Debugging Step: Print out the Git remote URL to verify authentication
-    - name: Verify remote URL and token usage
-      run: |
-        echo "Remote URL for git push:"
-        git remote -v  # Prints the remote URL to verify it includes the token
-        echo "Git config user:"
-        git config --list  # Verify user config is correct (ensure GitHub Actions user is set)
-
-    - name: Test token access to the repository
-      run: |
-        curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
-        https://api.github.com/repos/rkoens/ease
-
     - name: Commit and push changes
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Use the GitHub token stored in secrets
