@@ -54,17 +54,15 @@ def create_rss_feed(documents):
         description="Latest documents from the EU Transparency Portal"
     )
     
-    for doc in documents:
-        # Generate the document link using the publishedDocumentId
+    # Add new items at the top by reversing the list
+    for doc in reversed(documents):  # Reverse the order to add new items first
         doc_link = f"https://ec.europa.eu/transparency/documents-request/search/document-details/{doc['publishedDocumentId']}"
         
-        # Convert disclosureDate string to datetime object
         try:
             disclosure_date = datetime.datetime.strptime(doc['disclosureDate'], "%Y-%m-%d").date()
         except ValueError:
-            disclosure_date = datetime.datetime.now().date()  # Default to current date if parsing fails
+            disclosure_date = datetime.datetime.now().date()
 
-        # Add each document as an RSS feed item
         feed.add_item(
             title=doc['documentTitle'],
             link=doc_link,
@@ -74,13 +72,9 @@ def create_rss_feed(documents):
             categories=[doc['disclosureType']],
         )
 
-    # Generate RSS feed XML as a string
     xml_str = feed.writeString("utf-8")
-
-    # Pretty-print the XML with indentation
     xml_str_pretty = xml.dom.minidom.parseString(xml_str).toprettyxml(indent="  ")
 
-    # Save the formatted XML to the file
     with open("feed.xml", "w") as f:
         f.write(xml_str_pretty)
 
@@ -138,6 +132,7 @@ def fetch_data():
 # Run the script to fetch and update the RSS feed
 if __name__ == "__main__":
     fetch_data()
+
 
 
 
