@@ -34,6 +34,11 @@ jobs:
         echo "Git config user:"
         git config --list  # Verify user config is correct (ensure GitHub Actions user is set)
 
+    - name: Test token access to the repository
+      run: |
+        curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+        https://api.github.com/repos/rkoens/ease
+
     - name: Commit and push changes
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Use the GitHub token stored in secrets
