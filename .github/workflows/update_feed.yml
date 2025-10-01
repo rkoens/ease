@@ -32,6 +32,7 @@ jobs:
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/rkoens/ease.git  # Authenticate using the token
         git add feed.xml
         git commit -m "Updated RSS feed with new documents"
-        git push https://github.com/rkoens/ease.git HEAD:main  # Use token for authentication
+        git push origin HEAD:main  # Push changes
