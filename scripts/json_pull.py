@@ -1,6 +1,7 @@
 import requests
 import json
 import feedgenerator
+import xml.dom.minidom
 import os
 import datetime
 
@@ -49,7 +50,7 @@ def save_processed_documents(processed_documents):
 def create_rss_feed(documents):
     feed = feedgenerator.Rss201rev2Feed(
         title="EU Documents RSS Feed",
-        link="https://github.com/username/repository",  # Replace with your repository link
+        link="https://github.com/rkoens/ease",  # Replace with your repository link
         description="Latest documents from the EU Transparency Portal"
     )
     
@@ -57,22 +58,25 @@ def create_rss_feed(documents):
         # Generate the document link using the publishedDocumentId
         doc_link = f"https://ec.europa.eu/transparency/documents-request/search/document-details/{doc['publishedDocumentId']}"
         
-        # Convert disclosureDate string to datetime object
-        disclosure_date = datetime.datetime.strptime(doc['disclosureDate'], "%Y-%m-%d").date()
-        
-        # Add the item to the feed
+        # Add each document as an RSS feed item
         feed.add_item(
             title=doc['documentTitle'],
             link=doc_link,
             description=doc['documentTitle'],
-            pubdate=disclosure_date,
+            pubdate=doc['disclosureDate'],
             unique_id=doc['publishedDocumentId'],
             categories=[doc['disclosureType']],
         )
 
-    # Save the RSS feed to a file
+    # Generate RSS feed XML as a string
+    xml_str = feed.writeString("utf-8")
+
+    # Pretty-print the XML with indentation
+    xml_str_pretty = xml.dom.minidom.parseString(xml_str).toprettyxml(indent="  ")
+
+    # Save the formatted XML to the file
     with open("feed.xml", "w") as f:
-        f.write(feed.writeString("utf-8"))
+        f.write(xml_str_pretty)
 
 # Fetch data and process pagination
 def fetch_data():
@@ -128,5 +132,6 @@ def fetch_data():
 # Run the script to fetch and update the RSS feed
 if __name__ == "__main__":
     fetch_data()
+
 
 
