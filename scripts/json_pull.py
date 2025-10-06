@@ -47,12 +47,17 @@ def save_processed_documents(processed_documents):
         json.dump(list(processed_documents), f)
 
 # Create the RSS feed
-def create_rss_feed(documents):
-    feed = feedgenerator.Rss201rev2Feed(
-        title="EU Documents RSS Feed",
-        link="https://github.com/rkoens/ease",  # Replace with your repository link
-        description="Latest documents from the EU Transparency Portal"
-    )
+def save_processed_documents(processed_documents):
+    # Save as list of tuples: (id, date, type, title)
+    to_save = []
+    for doc in processed_documents:
+        if isinstance(doc, tuple) and len(doc) == 4:
+            to_save.append(doc)
+        else:
+            # Fallback for existing tuples with 3 items
+            to_save.append(doc + ("No title",))
+    with open("processed_documents.json", "w") as f:
+        json.dump(to_save, f)
 
     # Loop through the documents in the order they are fetched
     for doc in documents:
@@ -87,15 +92,9 @@ def create_rss_feed(documents):
 
 # Fetch data and process pagination
 def fetch_data():
-    existing_documents = load_existing_documents()  # Set of processed documents
+    existing_documents = load_existing_documents()  # Set of tuples
     new_documents = []
-    last_processed_doc_id = None
 
-    # Get total pages dynamically (fetch only the first few pages initially)
-    response = requests.get(url, headers=headers, params=querystring)
-    total_pages = response.json().get("totalPages", 0)
-    
-    # For testing purposes, limit to 2 pages
     max_pages_to_check = 5
     page_num = 0
 
@@ -106,39 +105,55 @@ def fetch_data():
         if response.status_code == 200:
             data = response.json()
             documents = data['content']
-            
+
             for doc in documents:
                 unique_key = (doc['publishedDocumentId'], doc['disclosureDate'], doc['disclosureType'])
-                
-                # Stop if we encounter a document that's already in the feed
+
                 if unique_key in existing_documents:
-                    print(f"Found existing document: {doc['documentTitle']}. Stopping.")
+                    # Stop if we reach an already processed document
                     break
-                
-                # Add new document to list if it's not in the feed
+
                 new_documents.append(doc)
                 existing_documents.add(unique_key)
 
-            # If we've encountered an existing document, stop checking
             if len(documents) == 0 or unique_key in existing_documents:
                 break
 
-            page_num += 1  # Move to the next page
+            page_num += 1
 
         else:
             print(f"Failed to fetch page {page_num}, Status Code: {response.status_code}")
-            break  # Exit the loop on error
+            break
 
-    # Create or update the RSS feed with new documents
-    if new_documents:
-        create_rss_feed(new_documents)
+    # Combine existing documents (from JSON) and new ones
+    all_docs = list(new_documents)
 
-    # Save updated document information to prevent re-processing
+    # Load previously saved documents (for building the feed)
+    try:
+        with open("processed_documents.json", "r") as f:
+            prev_docs = json.load(f)
+            # Convert back to dict format if needed
+            for doc_tuple in prev_docs:
+                doc_dict = {
+                    "publishedDocumentId": doc_tuple[0],
+                    "disclosureDate": doc_tuple[1],
+                    "disclosureType": doc_tuple[2],
+                    "documentTitle": doc_tuple[3] if len(doc_tuple) > 3 else "No title"
+                }
+                all_docs.append(doc_dict)
+    except FileNotFoundError:
+        pass
+
+    # Keep only the last 250 entries
+    all_docs = all_docs[:250]
+
+    # Create or update RSS feed
+    if all_docs:
+        create_rss_feed(all_docs)
+
+    # Save updated document info
     save_processed_documents(existing_documents)
 
-# Run the script to fetch and update the RSS feed
-if __name__ == "__main__":
-    fetch_data()
 
 
 
