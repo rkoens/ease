@@ -52,7 +52,7 @@ def save_processed_documents(documents):
 def create_rss_feed(documents):
     feed = feedgenerator.Rss201rev2Feed(
         title="EU Documents RSS Feed",
-        link="https://github.com/rkoens/ease",
+        link="https://raw.githubusercontent.com/rkoens/ease/main/feed.xml",
         description="Latest documents from the EU Transparency Portal"
     )
 
@@ -63,13 +63,23 @@ def create_rss_feed(documents):
         except ValueError:
             disclosure_date = datetime.datetime.now().date()
 
+        # Build HTML description with all fields
+        description_html = f"""
+        <![CDATA[
+        <p><strong>Title:</strong> {doc.get('documentTitle', 'No title')}</p>
+        <p><strong>Date:</strong> {disclosure_date.strftime('%Y-%m-%d')}</p>
+        <p><strong>Description:</strong> {doc.get('documentTitle', 'No description')}</p>
+        <p><strong>Type of disclosure:</strong> {doc.get('disclosureType', 'Unknown')}</p>
+        <p><strong>URL:</strong> <a href="{doc_link}">{doc_link}</a></p>
+        ]]>"""
+
         feed.add_item(
             title=doc.get('documentTitle', 'No title'),
             link=doc_link,
-            description=doc.get('documentTitle', 'No title'),
+            description=description_html,
             pubdate=disclosure_date,
             unique_id=doc['publishedDocumentId'],
-            categories=[doc['disclosureType']],
+            categories=[doc.get('disclosureType', 'Unknown')],
         )
 
     xml_str = feed.writeString("utf-8")
@@ -121,3 +131,4 @@ def fetch_data():
 
 if __name__ == "__main__":
     fetch_data()
+
