@@ -63,13 +63,16 @@ def create_rss_feed(documents):
         except ValueError:
             disclosure_date = datetime.datetime.now().date()
 
-        # Build HTML description with all fields
+        disclosed_by = doc.get('disclosedBy', 'Unknown')
+
+        # Build HTML description with all fields including disclosedBy
         description_html = f"""
         <![CDATA[
         <p><strong>Title:</strong> {doc.get('documentTitle', 'No title')}</p>
         <p><strong>Date:</strong> {disclosure_date.strftime('%Y-%m-%d')}</p>
         <p><strong>Description:</strong> {doc.get('documentTitle', 'No description')}</p>
         <p><strong>Type of disclosure:</strong> {doc.get('disclosureType', 'Unknown')}</p>
+        <p><strong>Disclosed by:</strong> {disclosed_by}</p>
         <p><strong>URL:</strong> <a href="{doc_link}">{doc_link}</a></p>
         ]]>"""
 
@@ -131,4 +134,5 @@ def fetch_data():
 
 if __name__ == "__main__":
     fetch_data()
+
 
