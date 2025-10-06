@@ -30,12 +30,19 @@ jobs:
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git remote set-url origin https://github.com/rkoens/ease.git # Reset to HTTPS URL for clean push
+        git remote set-url origin https://github.com/rkoens/ease.git
     
-        if git diff --exit-code; then
-          echo "No changes to commit."
-        else
+        # Stage feed.xml if it exists
+        if [ -f feed.xml ]; then
           git add feed.xml
-          git commit -m "Updated RSS feed with new documents"
-          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/rkoens/ease.git HEAD:main
+          # Commit only if there are changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Updated RSS feed with new documents"
+            git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/rkoens/ease.git HEAD:main
+          fi
+        else
+          echo "feed.xml does not exist yet"
         fi
+
