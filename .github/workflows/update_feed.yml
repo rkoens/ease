@@ -2,47 +2,49 @@ name: Update RSS Feed
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs once a day at midnight UTC
-  workflow_dispatch:  # Allows manual trigger
+    - cron: '0 8 * * *'  # Runs daily at 08:00 UTC
+  workflow_dispatch:
 
 jobs:
-  update_feed:
+  update-feed:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: "3.x"
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
 
-    - name: Install dependencies
-      run: |
-        pip install requests feedgenerator
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests feedgenerator
 
-    - name: Run script to fetch and update RSS feed
-      run: |
-        python scripts/json_pull.py  # Run the json_pull.py script directly
+      - name: Run RSS feed script
+        run: python scripts/json_pull.py
 
-    - name: Commit and push changes
-      run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git remote set-url origin https://github.com/rkoens/ease.git
-    
-        # Stage feed.xml if it exists
-        if [ -f feed.xml ]; then
-          git add feed.xml
-          # Commit only if there are changes
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
+      - name: Commit and push feed.xml
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git
+
+          # Only commit if feed.xml exists
+          if [ -f feed.xml ]; then
+            git add feed.xml
+
+            # Commit only if there are changes
+            if git diff --cached --quiet; then
+              echo "No changes to commit"
+            else
+              git commit -m "Updated RSS feed with new documents"
+              git push origin HEAD:main
+            fi
           else
-            git commit -m "Updated RSS feed with new documents"
-            git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/rkoens/ease.git HEAD:main
+            echo "feed.xml does not exist"
           fi
-        else
-          echo "feed.xml does not exist yet"
-        fi
-
