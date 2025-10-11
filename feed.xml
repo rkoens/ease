@@ -4,21 +4,133 @@
     <title>EU Documents RSS Feed</title>
     <link>https://raw.githubusercontent.com/rkoens/ease/main/feed.xml</link>
     <description>Latest documents from the EU Transparency Portal</description>
-    <lastBuildDate>Wed, 08 Oct 2025 00:00:00 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 00:00:00 -0000</lastBuildDate>
     <item>
-      <title>letter of the European Commission’s Directorate-General for the Environment, dated 15/09/2025, regarding “Italy’s project for a bridge over the Strait of Messina”, registered with ref. Ares(2025)7706760</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/17932</link>
+      <title>7. Acceptance with follow-up - EUP Engine power NL.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/17937</link>
       <description>
         &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; letter of the European Commission’s Directorate-General for the Environment, dated 15/09/2025, regarding “Italy’s project for a bridge over the Strait of Messina”, registered with ref. Ares(2025)7706760&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-09-30&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; letter of the European Commission’s Directorate-General for the Environment, dated 15/09/2025, regarding “Italy’s project for a bridge over the Strait of Messina”, registered with ref. Ares(2025)7706760&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 7. Acceptance with follow-up - EUP Engine power NL.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-10-01&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 7. Acceptance with follow-up - EUP Engine power NL.pdf&lt;/p&gt;
         &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; ENV&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/17932"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/17932&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; MARE&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/17937"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/17937&lt;/a&gt;&lt;/p&gt;
         ]]&gt;</description>
-      <pubDate>Tue, 30 Sep 2025 00:00:00 -0000</pubDate>
-      <guid>17932</guid>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 -0000</pubDate>
+      <guid>17937</guid>
+      <category>PARTIAL</category>
+    </item>
+    <item>
+      <title>8. Closing letter - EUP Engine power NL.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/17938</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 8. Closing letter - EUP Engine power NL.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-10-01&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 8. Closing letter - EUP Engine power NL.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; MARE&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/17938"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/17938&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 -0000</pubDate>
+      <guid>17938</guid>
+      <category>PARTIAL</category>
+    </item>
+    <item>
+      <title>5. EUP - Engine power NL.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/17939</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 5. EUP - Engine power NL.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-10-01&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 5. EUP - Engine power NL.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; MARE&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/17939"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/17939&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 -0000</pubDate>
+      <guid>17939</guid>
+      <category>PARTIAL</category>
+    </item>
+    <item>
+      <title>4. Closure EUP ES - Engine power.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/17940</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 4. Closure EUP ES - Engine power.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-10-01&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 4. Closure EUP ES - Engine power.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; MARE&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/17940"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/17940&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 -0000</pubDate>
+      <guid>17940</guid>
+      <category>PARTIAL</category>
+    </item>
+    <item>
+      <title>3. Additional information request - EUP ES - Engine power.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/17941</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 3. Additional information request - EUP ES - Engine power.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-10-01&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 3. Additional information request - EUP ES - Engine power.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; MARE&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/17941"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/17941&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 -0000</pubDate>
+      <guid>17941</guid>
+      <category>PARTIAL</category>
+    </item>
+    <item>
+      <title>1. EU pilot - Engine Power ES.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/17936</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 1. EU pilot - Engine Power ES.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-10-01&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 1. EU pilot - Engine Power ES.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; MARE&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/17936"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/17936&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 -0000</pubDate>
+      <guid>17936</guid>
+      <category>PARTIAL</category>
+    </item>
+    <item>
+      <title>Final Report DK-2021-D4-01-A.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/17934</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Final Report DK-2021-D4-01-A.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-10-08&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Final Report DK-2021-D4-01-A.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; MARE&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/17934"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/17934&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 -0000</pubDate>
+      <guid>17934</guid>
+      <category>PARTIAL</category>
+    </item>
+    <item>
+      <title>Final Report NL-2022-D4-01-A.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/17935</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Final Report NL-2022-D4-01-A.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-10-08&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Final Report NL-2022-D4-01-A.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; MARE&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/17935"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/17935&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 -0000</pubDate>
+      <guid>17935</guid>
       <category>PARTIAL</category>
     </item>
     <item>
@@ -51,6 +163,38 @@
         ]]&gt;</description>
       <pubDate>Fri, 19 Sep 2025 00:00:00 -0000</pubDate>
       <guid>17931</guid>
+      <category>PARTIAL</category>
+    </item>
+    <item>
+      <title>C_2025_6914_1_EN_ACT_part1_v2_Redacted.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/17933</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; C_2025_6914_1_EN_ACT_part1_v2_Redacted.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-10-10&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; C_2025_6914_1_EN_ACT_part1_v2_Redacted.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; JUST&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/17933"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/17933&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 -0000</pubDate>
+      <guid>17933</guid>
+      <category>FULL_ACCESS</category>
+    </item>
+    <item>
+      <title>letter of the European Commission’s Directorate-General for the Environment, dated 15/09/2025, regarding “Italy’s project for a bridge over the Strait of Messina”, registered with ref. Ares(2025)7706760</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/17932</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; letter of the European Commission’s Directorate-General for the Environment, dated 15/09/2025, regarding “Italy’s project for a bridge over the Strait of Messina”, registered with ref. Ares(2025)7706760&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-09-30&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; letter of the European Commission’s Directorate-General for the Environment, dated 15/09/2025, regarding “Italy’s project for a bridge over the Strait of Messina”, registered with ref. Ares(2025)7706760&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; ENV&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/17932"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/17932&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 -0000</pubDate>
+      <guid>17932</guid>
       <category>PARTIAL</category>
     </item>
     <item>
@@ -3860,150 +4004,6 @@
       <pubDate>Fri, 20 Jun 2025 00:00:00 -0000</pubDate>
       <guid>17697</guid>
       <category>FULL_ACCESS</category>
-    </item>
-    <item>
-      <title>Confirmatory Decision EASE 2024-1115 C(2025) 6602_Redacted.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/17696</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Confirmatory Decision EASE 2024-1115 C(2025) 6602_Redacted.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-09-30&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Confirmatory Decision EASE 2024-1115 C(2025) 6602_Redacted.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; MOVE&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/17696"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/17696&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Tue, 30 Sep 2025 00:00:00 -0000</pubDate>
-      <guid>17696</guid>
-      <category>FULL_ACCESS</category>
-    </item>
-    <item>
-      <title>WP 554 - Supplies made to visiting NATO forces - EN_Redacted.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/17695</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; WP 554 - Supplies made to visiting NATO forces - EN_Redacted.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-09-29&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; WP 554 - Supplies made to visiting NATO forces - EN_Redacted.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; TAXUD&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/17695"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/17695&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 -0000</pubDate>
-      <guid>17695</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>E-signatory guidelines - Access to Documents.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/17693</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; E-signatory guidelines - Access to Documents.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-06-25&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; E-signatory guidelines - Access to Documents.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; INTPA&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/17693"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/17693&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 -0000</pubDate>
-      <guid>17693</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>INTPA Companion - Chapter 18.6 (Access to Documents).pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/17694</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; INTPA Companion - Chapter 18.6 (Access to Documents).pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-06-25&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; INTPA Companion - Chapter 18.6 (Access to Documents).pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; INTPA&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/17694"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/17694&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 -0000</pubDate>
-      <guid>17694</guid>
-      <category>FULL_ACCESS</category>
-    </item>
-    <item>
-      <title>Annex I Description of the Action - 2.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/17687</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Annex I Description of the Action - 2.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-08-25&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Annex I Description of the Action - 2.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; INTPA&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/17687"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/17687&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Mon, 25 Aug 2025 00:00:00 -0000</pubDate>
-      <guid>17687</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>Y2 Narrative Report 01 June 2021 to 31 May 2022.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/17688</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Y2 Narrative Report 01 June 2021 to 31 May 2022.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-08-25&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Y2 Narrative Report 01 June 2021 to 31 May 2022.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; INTPA&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/17688"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/17688&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Mon, 25 Aug 2025 00:00:00 -0000</pubDate>
-      <guid>17688</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>Y1 Financial report_01 June 2020 to 31 May 2021.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/17690</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Y1 Financial report_01 June 2020 to 31 May 2021.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-08-25&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Y1 Financial report_01 June 2020 to 31 May 2021.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; INTPA&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/17690"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/17690&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Mon, 25 Aug 2025 00:00:00 -0000</pubDate>
-      <guid>17690</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>Special Conditions_ Rikolto.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/17691</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Special Conditions_ Rikolto.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-08-25&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Special Conditions_ Rikolto.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; INTPA&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/17691"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/17691&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Mon, 25 Aug 2025 00:00:00 -0000</pubDate>
-      <guid>17691</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>Y2 Financial Report_01 June 2021 to 31 May 2022.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/17683</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Y2 Financial Report_01 June 2021 to 31 May 2022.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-08-25&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Y2 Financial Report_01 June 2021 to 31 May 2022.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; INTPA&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/17683"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/17683&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Mon, 25 Aug 2025 00:00:00 -0000</pubDate>
-      <guid>17683</guid>
-      <category>PARTIAL</category>
     </item>
   </channel>
 </rss>
