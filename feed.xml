@@ -4,7 +4,327 @@
     <title>EU Documents RSS Feed</title>
     <link>https://raw.githubusercontent.com/rkoens/ease/main/feed.xml</link>
     <description>Latest documents from the EU Transparency Portal</description>
-    <lastBuildDate>Fri, 27 Feb 2026 00:00:00 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 00:00:00 -0000</lastBuildDate>
+    <item>
+      <title>Document 1, EMPL Briefing_redacted.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20840</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Document 1, EMPL Briefing_redacted.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-26&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Document 1, EMPL Briefing_redacted.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; EMPL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20840"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20840&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 -0000</pubDate>
+      <guid>20840</guid>
+      <category>PARTIAL</category>
+    </item>
+    <item>
+      <title>Document 2, correspondence_redacted.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20841</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Document 2, correspondence_redacted.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-26&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Document 2, correspondence_redacted.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; EMPL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20841"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20841&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 -0000</pubDate>
+      <guid>20841</guid>
+      <category>PARTIAL</category>
+    </item>
+    <item>
+      <title>1.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20839</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 1.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-12&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 1.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; ENER&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20839"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20839&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 -0000</pubDate>
+      <guid>20839</guid>
+      <category>PARTIAL</category>
+    </item>
+    <item>
+      <title>email.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20838</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; email.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-25&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; email.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; GROW&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20838"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20838&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 -0000</pubDate>
+      <guid>20838</guid>
+      <category>PARTIAL</category>
+    </item>
+    <item>
+      <title>Document 1.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20836</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Document 1.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-03-02&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Document 1.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; MOVE&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20836"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20836&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 -0000</pubDate>
+      <guid>20836</guid>
+      <category>PARTIAL</category>
+    </item>
+    <item>
+      <title>Document 2.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20837</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Document 2.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-03-02&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Document 2.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; MOVE&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20837"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20837&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 -0000</pubDate>
+      <guid>20837</guid>
+      <category>PARTIAL</category>
+    </item>
+    <item>
+      <title>7. COMMISSION IMPLEMENTING DECISION of 1.12.2021 approving the amendment of the rural development programme of Hungary for support  from the European Agricultural Fund for Rural Development and amending  Implementing Decision C(2015) 5528 of 10 August 2015CCI 2014HU06RDNP001</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20825</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 7. COMMISSION IMPLEMENTING DECISION of 1.12.2021 approving the amendment of the rural development programme of Hungary for support  from the European Agricultural Fund for Rural Development and amending  Implementing Decision C(2015) 5528 of 10 August 2015CCI 2014HU06RDNP001&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-23&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 7. COMMISSION IMPLEMENTING DECISION of 1.12.2021 approving the amendment of the rural development programme of Hungary for support  from the European Agricultural Fund for Rural Development and amending  Implementing Decision C(2015) 5528 of 10 August 2015CCI 2014HU06RDNP001&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; AGRI&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20825"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20825&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 -0000</pubDate>
+      <guid>20825</guid>
+      <category>FULL_ACCESS</category>
+    </item>
+    <item>
+      <title>9. COMMISSION IMPLEMENTING DECISION of 7.8.2020 approving the amendment of the rural development programme of Hungary for support  from the European Agricultural Fund for Rural Development CCI 2014HU06RDNP001</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20826</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 9. COMMISSION IMPLEMENTING DECISION of 7.8.2020 approving the amendment of the rural development programme of Hungary for support  from the European Agricultural Fund for Rural Development CCI 2014HU06RDNP001&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-23&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 9. COMMISSION IMPLEMENTING DECISION of 7.8.2020 approving the amendment of the rural development programme of Hungary for support  from the European Agricultural Fund for Rural Development CCI 2014HU06RDNP001&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; AGRI&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20826"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20826&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 -0000</pubDate>
+      <guid>20826</guid>
+      <category>FULL_ACCESS</category>
+    </item>
+    <item>
+      <title>1. COMMISSION IMPLEMENTING DECISION approving the amendment of the rural development programme of Hungary for support from the European Agricultural Fund for Rural Development and amending Implementing Decision C(2015)5528 of 10 August 2015 CCI 2014HU06RDNP001</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20827</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 1. COMMISSION IMPLEMENTING DECISION approving the amendment of the rural development programme of Hungary for support from the European Agricultural Fund for Rural Development and amending Implementing Decision C(2015)5528 of 10 August 2015 CCI 2014HU06RDNP001&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-23&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 1. COMMISSION IMPLEMENTING DECISION approving the amendment of the rural development programme of Hungary for support from the European Agricultural Fund for Rural Development and amending Implementing Decision C(2015)5528 of 10 August 2015 CCI 2014HU06RDNP001&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; AGRI&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20827"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20827&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 -0000</pubDate>
+      <guid>20827</guid>
+      <category>FULL_ACCESS</category>
+    </item>
+    <item>
+      <title>2. COMMISSION IMPLEMENTING DECISION of  21.5.2025 approving the amendment of the rural development programme of Hungary for support from the European Agricultural Fund for Rural Development and amending Implementing Decision C(2015)5528 of 10 August 2015 CCI 2014HU06RDNP001</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20828</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 2. COMMISSION IMPLEMENTING DECISION of  21.5.2025 approving the amendment of the rural development programme of Hungary for support from the European Agricultural Fund for Rural Development and amending Implementing Decision C(2015)5528 of 10 August 2015 CCI 2014HU06RDNP001&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-23&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 2. COMMISSION IMPLEMENTING DECISION of  21.5.2025 approving the amendment of the rural development programme of Hungary for support from the European Agricultural Fund for Rural Development and amending Implementing Decision C(2015)5528 of 10 August 2015 CCI 2014HU06RDNP001&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; AGRI&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20828"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20828&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 -0000</pubDate>
+      <guid>20828</guid>
+      <category>FULL_ACCESS</category>
+    </item>
+    <item>
+      <title>6. COMMISSION IMPLEMENTING DECISION of 8.6.2022 approving the amendment of the rural development programme of Hungary for support from the European Agricultural Fund for Rural Development and amending Implementing Decision C(2015) 5528 of 10 August 2015  CCI 2014HU06RDNP001</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20829</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 6. COMMISSION IMPLEMENTING DECISION of 8.6.2022 approving the amendment of the rural development programme of Hungary for support from the European Agricultural Fund for Rural Development and amending Implementing Decision C(2015) 5528 of 10 August 2015  CCI 2014HU06RDNP001&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-23&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 6. COMMISSION IMPLEMENTING DECISION of 8.6.2022 approving the amendment of the rural development programme of Hungary for support from the European Agricultural Fund for Rural Development and amending Implementing Decision C(2015) 5528 of 10 August 2015  CCI 2014HU06RDNP001&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; AGRI&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20829"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20829&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 -0000</pubDate>
+      <guid>20829</guid>
+      <category>FULL_ACCESS</category>
+    </item>
+    <item>
+      <title>11. COMMISSION IMPLEMENTING DECISION of 18.12.2018 approving the amendment of the rural development programme of Hungary for support  from the European Agricultural Fund for Rural Development and amending  Implementing Decision C(2015) 5528 CCI 2014HU06RDNP001</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20830</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 11. COMMISSION IMPLEMENTING DECISION of 18.12.2018 approving the amendment of the rural development programme of Hungary for support  from the European Agricultural Fund for Rural Development and amending  Implementing Decision C(2015) 5528 CCI 2014HU06RDNP001&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-23&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 11. COMMISSION IMPLEMENTING DECISION of 18.12.2018 approving the amendment of the rural development programme of Hungary for support  from the European Agricultural Fund for Rural Development and amending  Implementing Decision C(2015) 5528 CCI 2014HU06RDNP001&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; AGRI&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20830"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20830&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 -0000</pubDate>
+      <guid>20830</guid>
+      <category>FULL_ACCESS</category>
+    </item>
+    <item>
+      <title>12. COMMISSION IMPLEMENTING DECISION of 17.1.2018 approving the amendment of the rural development programme of Hungary for support  from the European Agricultural Fund for Rural Development  CCI: 2014HU06RDNP001</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20831</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 12. COMMISSION IMPLEMENTING DECISION of 17.1.2018 approving the amendment of the rural development programme of Hungary for support  from the European Agricultural Fund for Rural Development  CCI: 2014HU06RDNP001&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-23&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 12. COMMISSION IMPLEMENTING DECISION of 17.1.2018 approving the amendment of the rural development programme of Hungary for support  from the European Agricultural Fund for Rural Development  CCI: 2014HU06RDNP001&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; AGRI&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20831"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20831&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 -0000</pubDate>
+      <guid>20831</guid>
+      <category>FULL_ACCESS</category>
+    </item>
+    <item>
+      <title>4. COMMISSION IMPLEMENTING DECISION of 16.4.2024 approving the amendment of the rural development programme of Hungary for support  from the European Agricultural Fund for Rural Development and amending  Implementing Decision C(2015) 5528 of 10 August 2015</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20832</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 4. COMMISSION IMPLEMENTING DECISION of 16.4.2024 approving the amendment of the rural development programme of Hungary for support  from the European Agricultural Fund for Rural Development and amending  Implementing Decision C(2015) 5528 of 10 August 2015&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-23&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 4. COMMISSION IMPLEMENTING DECISION of 16.4.2024 approving the amendment of the rural development programme of Hungary for support  from the European Agricultural Fund for Rural Development and amending  Implementing Decision C(2015) 5528 of 10 August 2015&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; AGRI&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20832"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20832&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 -0000</pubDate>
+      <guid>20832</guid>
+      <category>FULL_ACCESS</category>
+    </item>
+    <item>
+      <title>8.  COMMISSION IMPLEMENTING DECISION of 1.12.2021 approving the amendment of the rural development programme of Hungary for support  from the European Agricultural Fund for Rural Development and amending  Implementing Decision C(2015) 5528 of 10 August 2015CCI 2014HU06RDNP001</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20833</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 8.  COMMISSION IMPLEMENTING DECISION of 1.12.2021 approving the amendment of the rural development programme of Hungary for support  from the European Agricultural Fund for Rural Development and amending  Implementing Decision C(2015) 5528 of 10 August 2015CCI 2014HU06RDNP001&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-23&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 8.  COMMISSION IMPLEMENTING DECISION of 1.12.2021 approving the amendment of the rural development programme of Hungary for support  from the European Agricultural Fund for Rural Development and amending  Implementing Decision C(2015) 5528 of 10 August 2015CCI 2014HU06RDNP001&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; AGRI&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20833"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20833&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 -0000</pubDate>
+      <guid>20833</guid>
+      <category>FULL_ACCESS</category>
+    </item>
+    <item>
+      <title>3. COMMISSION IMPLEMENTING DECISION of 17.12.2024 approving the amendment of the rural development programme of Hungary for support  from the European Agricultural Fund for Rural Development and amending  Implementing Decision C(2015) 5528 of 10 August 2015</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20834</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 3. COMMISSION IMPLEMENTING DECISION of 17.12.2024 approving the amendment of the rural development programme of Hungary for support  from the European Agricultural Fund for Rural Development and amending  Implementing Decision C(2015) 5528 of 10 August 2015&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-23&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 3. COMMISSION IMPLEMENTING DECISION of 17.12.2024 approving the amendment of the rural development programme of Hungary for support  from the European Agricultural Fund for Rural Development and amending  Implementing Decision C(2015) 5528 of 10 August 2015&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; AGRI&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20834"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20834&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 -0000</pubDate>
+      <guid>20834</guid>
+      <category>FULL_ACCESS</category>
+    </item>
+    <item>
+      <title>10. COMMISSION IMPLEMENTING DECISION of 9.9.2019 on approving the amendment of the rural development programme of Hungary for  support from the European Agricultural Fund for Rural Development CCI 2014HU06RDNP001</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20835</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 10. COMMISSION IMPLEMENTING DECISION of 9.9.2019 on approving the amendment of the rural development programme of Hungary for  support from the European Agricultural Fund for Rural Development CCI 2014HU06RDNP001&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-23&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 10. COMMISSION IMPLEMENTING DECISION of 9.9.2019 on approving the amendment of the rural development programme of Hungary for  support from the European Agricultural Fund for Rural Development CCI 2014HU06RDNP001&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; AGRI&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20835"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20835&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 -0000</pubDate>
+      <guid>20835</guid>
+      <category>FULL_ACCESS</category>
+    </item>
+    <item>
+      <title>5. COMMISSION IMPLEMENTING DECISION of 25.1.2023 approving the amendment of the rural development programme of Hungary for support from the European Agricultural Fund for Rural Development and amending Implementing Decision C(2015) 5528 of 10 August 2015  CCI 2014HU06RDNP001</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/1657</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 5. COMMISSION IMPLEMENTING DECISION of 25.1.2023 approving the amendment of the rural development programme of Hungary for support from the European Agricultural Fund for Rural Development and amending Implementing Decision C(2015) 5528 of 10 August 2015  CCI 2014HU06RDNP001&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-23&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 5. COMMISSION IMPLEMENTING DECISION of 25.1.2023 approving the amendment of the rural development programme of Hungary for support from the European Agricultural Fund for Rural Development and amending Implementing Decision C(2015) 5528 of 10 August 2015  CCI 2014HU06RDNP001&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; AGRI&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/1657"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/1657&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 -0000</pubDate>
+      <guid>1657</guid>
+      <category>FULL_ACCESS</category>
+    </item>
+    <item>
+      <title>Positive preliminary assessment of the satisfactory fulfilment of milestones and targets related to the eighth payment request submitted by Croatia on 15 December 2025</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20823</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Positive preliminary assessment of the satisfactory fulfilment of milestones and targets related to the eighth payment request submitted by Croatia on 15 December 2025&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-03-02&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Positive preliminary assessment of the satisfactory fulfilment of milestones and targets related to the eighth payment request submitted by Croatia on 15 December 2025&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; ECFIN&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20823"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20823&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 -0000</pubDate>
+      <guid>20823</guid>
+      <category>FULL_ACCESS</category>
+    </item>
+    <item>
+      <title>COMMUNICATION TO THE COMMISSION COMMUNICATION FROM COMMISSIONER DOMBROVSKIS TO THE COMMISSION IN AGREEMENT WITH EXECUTIVE VICE-PRESIDENT FITTO on the positive preliminary assessment of the eighth payment request of the Republic of Croatia pursuant to Regulation (EU) 2021/241</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20824</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; COMMUNICATION TO THE COMMISSION COMMUNICATION FROM COMMISSIONER DOMBROVSKIS TO THE COMMISSION IN AGREEMENT WITH EXECUTIVE VICE-PRESIDENT FITTO on the positive preliminary assessment of the eighth payment request of the Republic of Croatia pursuant to Regulation (EU) 2021/241&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-03-02&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; COMMUNICATION TO THE COMMISSION COMMUNICATION FROM COMMISSIONER DOMBROVSKIS TO THE COMMISSION IN AGREEMENT WITH EXECUTIVE VICE-PRESIDENT FITTO on the positive preliminary assessment of the eighth payment request of the Republic of Croatia pursuant to Regulation (EU) 2021/241&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; ECFIN&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20824"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20824&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 -0000</pubDate>
+      <guid>20824</guid>
+      <category>FULL_ACCESS</category>
+    </item>
     <item>
       <title>03. EVALUATION REPORT LOT 1_final.pdf</title>
       <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20821</link>
@@ -3158,22 +3478,6 @@
       <category>FULL_ACCESS</category>
     </item>
     <item>
-      <title>C_2026_1295_1_EN_ACT_part1_v2_Redacted.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20605</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; C_2026_1295_1_EN_ACT_part1_v2_Redacted.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-20&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; C_2026_1295_1_EN_ACT_part1_v2_Redacted.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; ENV&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20605"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20605&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Fri, 20 Feb 2026 00:00:00 -0000</pubDate>
-      <guid>20605</guid>
-      <category>FULL_ACCESS</category>
-    </item>
-    <item>
       <title>Annex to the decision above containing the list of closures being proposed, including the closure of case INFR(2010)4200</title>
       <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20587</link>
       <description>
@@ -3252,6 +3556,22 @@
       <pubDate>Wed, 04 Feb 2026 00:00:00 -0000</pubDate>
       <guid>20591</guid>
       <category>PARTIAL</category>
+    </item>
+    <item>
+      <title>C_2026_1295_1_EN_ACT_part1_v2_Redacted.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20605</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; C_2026_1295_1_EN_ACT_part1_v2_Redacted.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-20&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; C_2026_1295_1_EN_ACT_part1_v2_Redacted.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; ENV&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20605"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20605&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 -0000</pubDate>
+      <guid>20605</guid>
+      <category>FULL_ACCESS</category>
     </item>
     <item>
       <title>THEMIS fiche on the basis of which the College decision to close the case was taken</title>
@@ -3683,326 +4003,6 @@
         ]]&gt;</description>
       <pubDate>Thu, 05 Feb 2026 00:00:00 -0000</pubDate>
       <guid>20555</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>4. GASTECH - Commerce Roundtable_Redacted.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20556</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 4. GASTECH - Commerce Roundtable_Redacted.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-05&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 4. GASTECH - Commerce Roundtable_Redacted.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; ENER&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20556"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20556&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 -0000</pubDate>
-      <guid>20556</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>9. September 2025 - Mission to D.C. - Programme_Redacted.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20557</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 9. September 2025 - Mission to D.C. - Programme_Redacted.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-05&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 9. September 2025 - Mission to D.C. - Programme_Redacted.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; ENER&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20557"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20557&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 -0000</pubDate>
-      <guid>20557</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>6. GASTECH - Programme - Ditte Juul Jorgensen_Redacted.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20558</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 6. GASTECH - Programme - Ditte Juul Jorgensen_Redacted.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-05&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 6. GASTECH - Programme - Ditte Juul Jorgensen_Redacted.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; ENER&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20558"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20558&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 -0000</pubDate>
-      <guid>20558</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>12. Briefing - Atlantic Council January 2025_Redacted.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20561</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 12. Briefing - Atlantic Council January 2025_Redacted.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-05&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 12. Briefing - Atlantic Council January 2025_Redacted.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; ENER&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20561"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20561&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 -0000</pubDate>
-      <guid>20561</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>13. CERAWEEK - Programme - Ditte Juul Jørgensen - MASTER_Redacted.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20562</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 13. CERAWEEK - Programme - Ditte Juul Jørgensen - MASTER_Redacted.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-05&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 13. CERAWEEK - Programme - Ditte Juul Jørgensen - MASTER_Redacted.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; ENER&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20562"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20562&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 -0000</pubDate>
-      <guid>20562</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>3. Bilateral Cssr - Jack Fusco (Cheniere)_11 March_Redacted.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20564</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 3. Bilateral Cssr - Jack Fusco (Cheniere)_11 March_Redacted.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-05&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 3. Bilateral Cssr - Jack Fusco (Cheniere)_11 March_Redacted.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; ENER&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20564"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20564&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 -0000</pubDate>
-      <guid>20564</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>8. September 2025 - Mission to D.C. - Event on LNG with Industry_Redacted.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20565</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 8. September 2025 - Mission to D.C. - Event on LNG with Industry_Redacted.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-05&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 8. September 2025 - Mission to D.C. - Event on LNG with Industry_Redacted.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; ENER&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20565"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20565&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 -0000</pubDate>
-      <guid>20565</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>10. September 2025 - Mission to Gastech - Programme_Redacted.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20566</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 10. September 2025 - Mission to Gastech - Programme_Redacted.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-05&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 10. September 2025 - Mission to Gastech - Programme_Redacted.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; ENER&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20566"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20566&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 -0000</pubDate>
-      <guid>20566</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>1.1 mail - Meeting request - Copa Cogeca - 11 11 2025 in Brussels.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20550</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 1.1 mail - Meeting request - Copa Cogeca - 11 11 2025 in Brussels.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-09&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 1.1 mail - Meeting request - Copa Cogeca - 11 11 2025 in Brussels.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; AGRI&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20550"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20550&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 00:00:00 -0000</pubDate>
-      <guid>20550</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>2.1 mail COCERAL.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20551</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 2.1 mail COCERAL.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-09&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 2.1 mail COCERAL.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; AGRI&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20551"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20551&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 00:00:00 -0000</pubDate>
-      <guid>20551</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>1.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20552</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 1.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-09&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 1.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; AGRI&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20552"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20552&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 00:00:00 -0000</pubDate>
-      <guid>20552</guid>
-      <category>FULL_ACCESS</category>
-    </item>
-    <item>
-      <title>3.1 mail - FEFAC.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20553</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 3.1 mail - FEFAC.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-09&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 3.1 mail - FEFAC.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; AGRI&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20553"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20553&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 00:00:00 -0000</pubDate>
-      <guid>20553</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>3.3 supporting EUDR simplification measures for downstream actors.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20554</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 3.3 supporting EUDR simplification measures for downstream actors.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-09&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 3.3 supporting EUDR simplification measures for downstream actors.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; AGRI&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20554"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20554&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Mon, 09 Feb 2026 00:00:00 -0000</pubDate>
-      <guid>20554</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>Evaluation Committee report - Support services related to quality assurance in vocational education and training (EQAVET), graduate tracking and European vocational core profiles (EVCP) - VT_2023_020 - EMPL_2023_OP_0009.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20539</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Evaluation Committee report - Support services related to quality assurance in vocational education and training (EQAVET), graduate tracking and European vocational core profiles (EVCP) - VT_2023_020 - EMPL_2023_OP_0009.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-17&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Evaluation Committee report - Support services related to quality assurance in vocational education and training (EQAVET), graduate tracking and European vocational core profiles (EVCP) - VT_2023_020 - EMPL_2023_OP_0009.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; EMPL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20539"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20539&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Tue, 17 Feb 2026 00:00:00 -0000</pubDate>
-      <guid>20539</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>C_2025_8937_1_EN_ACT_part1_v2_Redacted.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20538</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; C_2025_8937_1_EN_ACT_part1_v2_Redacted.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-18&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; C_2025_8937_1_EN_ACT_part1_v2_Redacted.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; MOVE&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20538"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20538&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 -0000</pubDate>
-      <guid>20538</guid>
-      <category>FULL_ACCESS</category>
-    </item>
-    <item>
-      <title>Document 15 - Minutes of the kick-off meeting of 6 March 2023.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/18922</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Document 15 - Minutes of the kick-off meeting of 6 March 2023.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-11-14&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Document 15 - Minutes of the kick-off meeting of 6 March 2023.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; ENV&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/18922"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/18922&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Fri, 14 Nov 2025 00:00:00 -0000</pubDate>
-      <guid>18922</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>Document 17 - Minutes from meeting of 27 July 2023.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/18924</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Document 17 - Minutes from meeting of 27 July 2023.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-11-14&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Document 17 - Minutes from meeting of 27 July 2023.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; ENV&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/18924"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/18924&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Fri, 14 Nov 2025 00:00:00 -0000</pubDate>
-      <guid>18924</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>C_2025_8446_1_EN_ACT_part1_v2_Redacted.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/20537</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; C_2025_8446_1_EN_ACT_part1_v2_Redacted.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-18&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; C_2025_8446_1_EN_ACT_part1_v2_Redacted.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; ENV&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/20537"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/20537&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 -0000</pubDate>
-      <guid>20537</guid>
-      <category>FULL_ACCESS</category>
-    </item>
-    <item>
-      <title>Document 20 - Minutes from meeting of 12 January 2024.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/18920</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Document 20 - Minutes from meeting of 12 January 2024.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-11-14&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Document 20 - Minutes from meeting of 12 January 2024.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; ENV&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/18920"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/18920&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Fri, 14 Nov 2025 00:00:00 -0000</pubDate>
-      <guid>18920</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>Document 19 - Minutes from meeting of 20 December 2023.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/18921</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Document 19 - Minutes from meeting of 20 December 2023.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-11-14&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Document 19 - Minutes from meeting of 20 December 2023.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; ENV&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/18921"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/18921&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Fri, 14 Nov 2025 00:00:00 -0000</pubDate>
-      <guid>18921</guid>
       <category>PARTIAL</category>
     </item>
   </channel>
