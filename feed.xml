@@ -4,37 +4,21 @@
     <title>EU Documents RSS Feed</title>
     <link>https://raw.githubusercontent.com/rkoens/ease/main/feed.xml</link>
     <description>Latest documents from the EU Transparency Portal</description>
-    <lastBuildDate>Wed, 08 Apr 2026 00:00:00 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 00:00:00 -0000</lastBuildDate>
     <item>
-      <title>Draft template drawn up to provide information about relevant national company legal forms</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21969</link>
+      <title>C_2026_2478_1_EN_ACT_part1_v2_Redacted.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21976</link>
       <description>
         &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Draft template drawn up to provide information about relevant national company legal forms&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-23&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Draft template drawn up to provide information about relevant national company legal forms&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; C_2026_2478_1_EN_ACT_part1_v2_Redacted.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-04-10&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; C_2026_2478_1_EN_ACT_part1_v2_Redacted.pdf&lt;/p&gt;
         &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; JUST&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21969"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21969&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; GROW&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21976"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21976&lt;/a&gt;&lt;/p&gt;
         ]]&gt;</description>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 -0000</pubDate>
-      <guid>21969</guid>
-      <category>FULL_ACCESS</category>
-    </item>
-    <item>
-      <title>ICLEG_ 28th regime  30.4 FINAL.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21970</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; ICLEG_ 28th regime  30.4 FINAL.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-23&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; ICLEG_ 28th regime  30.4 FINAL.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; JUST&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21970"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21970&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 -0000</pubDate>
-      <guid>21970</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 -0000</pubDate>
+      <guid>21976</guid>
       <category>FULL_ACCESS</category>
     </item>
     <item>
@@ -54,6 +38,38 @@
       <category>PARTIAL</category>
     </item>
     <item>
+      <title>Doc 34 - External Service Provider-related correspondence retrieved from the KOEL platform (in relation to recommendations 34, 35, 36)</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21943</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Doc 34 - External Service Provider-related correspondence retrieved from the KOEL platform (in relation to recommendations 34, 35, 36)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-03-19&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Doc 34 - External Service Provider-related correspondence retrieved from the KOEL platform (in relation to recommendations 34, 35, 36)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; HOME&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21943"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21943&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
+      <guid>21943</guid>
+      <category>PARTIAL</category>
+    </item>
+    <item>
+      <title>Doc 6 - External Service Provider-related correspondence retrieved from the KOEL platform (in relation to recommendations 62 to 66)</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21944</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Doc 6 - External Service Provider-related correspondence retrieved from the KOEL platform (in relation to recommendations 62 to 66)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-03-19&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Doc 6 - External Service Provider-related correspondence retrieved from the KOEL platform (in relation to recommendations 62 to 66)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; HOME&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21944"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21944&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
+      <guid>21944</guid>
+      <category>PARTIAL</category>
+    </item>
+    <item>
       <title>Doc 20/45/54 - External Service Provider-related findings, C(2024) 1999, points 3.1.1, 3.1.2, 3.1.3, 3.2.1</title>
       <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21945</link>
       <description>
@@ -67,6 +83,22 @@
         ]]&gt;</description>
       <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
       <guid>21945</guid>
+      <category>PARTIAL</category>
+    </item>
+    <item>
+      <title>Doc 50 - External Service Provider-related “E-mail-points” sent on 12/05/2023 (Websites (for Bissau); Infrastructure at the external service provider (Bissau)) (Ares(2023)3332470)</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21946</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Doc 50 - External Service Provider-related “E-mail-points” sent on 12/05/2023 (Websites (for Bissau); Infrastructure at the external service provider (Bissau)) (Ares(2023)3332470)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-03-19&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Doc 50 - External Service Provider-related “E-mail-points” sent on 12/05/2023 (Websites (for Bissau); Infrastructure at the external service provider (Bissau)) (Ares(2023)3332470)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; HOME&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21946"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21946&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
+      <guid>21946</guid>
       <category>PARTIAL</category>
     </item>
     <item>
@@ -86,6 +118,22 @@
       <category>PARTIAL</category>
     </item>
     <item>
+      <title>Doc 25 - External Service Provider-related “E-mail-points” sent on 19/09/2024 to Ms Orsolya Zold ((MFA) (Points: Information to the public; CISO; External service provider (Beijing); External service provider (Bishkek))</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21948</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Doc 25 - External Service Provider-related “E-mail-points” sent on 19/09/2024 to Ms Orsolya Zold ((MFA) (Points: Information to the public; CISO; External service provider (Beijing); External service provider (Bishkek))&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-03-19&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Doc 25 - External Service Provider-related “E-mail-points” sent on 19/09/2024 to Ms Orsolya Zold ((MFA) (Points: Information to the public; CISO; External service provider (Beijing); External service provider (Bishkek))&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; HOME&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21948"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21948&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
+      <guid>21948</guid>
+      <category>FULL_ACCESS</category>
+    </item>
+    <item>
       <title>Doc 44 - External Service Provider-related “E-mail-points” sent on 10/06/2024 (Information to the public; External Service Provider)</title>
       <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21949</link>
       <description>
@@ -99,6 +147,22 @@
         ]]&gt;</description>
       <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
       <guid>21949</guid>
+      <category>FULL_ACCESS</category>
+    </item>
+    <item>
+      <title>Doc 30 - External Service Provider-related findings from the Annex to the Commission Implementing Decision establishing the report of the 2023 Schengen evaluation of Latvia, C(2024) 2700, “Data protection aspects of the visa issuing procedure” under 4.1</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21950</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Doc 30 - External Service Provider-related findings from the Annex to the Commission Implementing Decision establishing the report of the 2023 Schengen evaluation of Latvia, C(2024) 2700, “Data protection aspects of the visa issuing procedure” under 4.1&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-03-19&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Doc 30 - External Service Provider-related findings from the Annex to the Commission Implementing Decision establishing the report of the 2023 Schengen evaluation of Latvia, C(2024) 2700, “Data protection aspects of the visa issuing procedure” under 4.1&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; HOME&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21950"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21950&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
+      <guid>21950</guid>
       <category>FULL_ACCESS</category>
     </item>
     <item>
@@ -118,6 +182,38 @@
       <category>FULL_ACCESS</category>
     </item>
     <item>
+      <title>Doc 40 - External Service Provider-related findings from the Annex to the Commission Implementing Decision establishing the report of the 2023 revisit of the Netherlands on the application of the Schengen acquis in the field of the common visa policy, C(2023) 5101, point 3</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21952</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Doc 40 - External Service Provider-related findings from the Annex to the Commission Implementing Decision establishing the report of the 2023 revisit of the Netherlands on the application of the Schengen acquis in the field of the common visa policy, C(2023) 5101, point 3&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-03-19&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Doc 40 - External Service Provider-related findings from the Annex to the Commission Implementing Decision establishing the report of the 2023 revisit of the Netherlands on the application of the Schengen acquis in the field of the common visa policy, C(2023) 5101, point 3&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; HOME&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21952"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21952&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
+      <guid>21952</guid>
+      <category>FULL_ACCESS</category>
+    </item>
+    <item>
+      <title>Doc 46 - External Service Provider-related correspondence retrieved from the KOEL platform regarding this evaluation (in relation to recommendations 2, 3, 5, 6)</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21953</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Doc 46 - External Service Provider-related correspondence retrieved from the KOEL platform regarding this evaluation (in relation to recommendations 2, 3, 5, 6)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-03-19&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Doc 46 - External Service Provider-related correspondence retrieved from the KOEL platform regarding this evaluation (in relation to recommendations 2, 3, 5, 6)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; HOME&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21953"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21953&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
+      <guid>21953</guid>
+      <category>PARTIAL</category>
+    </item>
+    <item>
       <title>Doc 47 - External Service Provider-related “E-mail-points” sent on 06/02/2024 (External Service Provider)</title>
       <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21954</link>
       <description>
@@ -132,6 +228,22 @@
       <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
       <guid>21954</guid>
       <category>FULL_ACCESS</category>
+    </item>
+    <item>
+      <title>Doc 31 - External Service Provider-related correspondence retrieved from the KOEL platform (in relation to recommendation 53)</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21955</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Doc 31 - External Service Provider-related correspondence retrieved from the KOEL platform (in relation to recommendation 53)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-03-19&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Doc 31 - External Service Provider-related correspondence retrieved from the KOEL platform (in relation to recommendation 53)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; HOME&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21955"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21955&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
+      <guid>21955</guid>
+      <category>PARTIAL</category>
     </item>
     <item>
       <title>Doc 19 - External Service Provider-related correspondence retrieved from the KOEL platform regarding this evaluation (in relation to recommendations no. 2, 3, 5, 12)</title>
@@ -164,6 +276,22 @@
       <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
       <guid>21957</guid>
       <category>FULL_ACCESS</category>
+    </item>
+    <item>
+      <title>Doc 18 - External Service Provider-related findings, C(2020) 4300, points 3.1.1, 3.2.3, 5.2.1, 5.3.2</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21958</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Doc 18 - External Service Provider-related findings, C(2020) 4300, points 3.1.1, 3.2.3, 5.2.1, 5.3.2&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-03-19&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Doc 18 - External Service Provider-related findings, C(2020) 4300, points 3.1.1, 3.2.3, 5.2.1, 5.3.2&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; HOME&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21958"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21958&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
+      <guid>21958</guid>
+      <category>PARTIAL</category>
     </item>
     <item>
       <title>Doc 2 - External Service Provider-related correspondence retrieved from the KOEL platform (regarding recommendations no. 1, 11, 12, 13, 14, 15, 17, 18).</title>
@@ -211,6 +339,22 @@
         ]]&gt;</description>
       <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
       <guid>21961</guid>
+      <category>PARTIAL</category>
+    </item>
+    <item>
+      <title>Doc 49 - External Service Provider-related correspondence retrieved from the KOEL platform (in relation to recommendations 4 and 17 to 29)</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21962</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Doc 49 - External Service Provider-related correspondence retrieved from the KOEL platform (in relation to recommendations 4 and 17 to 29)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-03-19&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Doc 49 - External Service Provider-related correspondence retrieved from the KOEL platform (in relation to recommendations 4 and 17 to 29)&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; HOME&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21962"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21962&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
+      <guid>21962</guid>
       <category>PARTIAL</category>
     </item>
     <item>
@@ -262,6 +406,22 @@
       <category>FULL_ACCESS</category>
     </item>
     <item>
+      <title>Doc 38 - External Service Provider-related findings from the Annex to the Commission Implementing Decision establishing the report of the 2022 evaluation of the Netherlands on the application of the Schengen acquis in the field of the common visa policy, C(2022) 6600, points 3.2.1, 3.3.1, 4.1</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21966</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Doc 38 - External Service Provider-related findings from the Annex to the Commission Implementing Decision establishing the report of the 2022 evaluation of the Netherlands on the application of the Schengen acquis in the field of the common visa policy, C(2022) 6600, points 3.2.1, 3.3.1, 4.1&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-03-19&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Doc 38 - External Service Provider-related findings from the Annex to the Commission Implementing Decision establishing the report of the 2022 evaluation of the Netherlands on the application of the Schengen acquis in the field of the common visa policy, C(2022) 6600, points 3.2.1, 3.3.1, 4.1&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; HOME&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21966"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21966&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
+      <guid>21966</guid>
+      <category>PARTIAL</category>
+    </item>
+    <item>
       <title>Doc 33 - External Service Provider-related findings from the Annex to the Commission Implementing Decision establishing the report of the 2023 Schengen evaluation of Lithuania, C(2024) 305, points “The online visa application portal of Lithuania (“EPM”)”, “Affixing long-stay visas in the travel document” the and first paragraph of “Implementation of the EU-Armenia visa facilitation agreement”</title>
       <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21967</link>
       <description>
@@ -294,6 +454,22 @@
       <category>FULL_ACCESS</category>
     </item>
     <item>
+      <title>EASE 2025-1756 Confirmatory Decision_Redacted.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21975</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; EASE 2025-1756 Confirmatory Decision_Redacted.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-04-10&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; EASE 2025-1756 Confirmatory Decision_Redacted.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; HOME&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21975"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21975&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 -0000</pubDate>
+      <guid>21975</guid>
+      <category>FULL_ACCESS</category>
+    </item>
+    <item>
       <title>Doc 42 - External Service Provider-related findings from the Annex to the Commission Implementing Decision establishing the report of the 2024 Schengen evaluation of Poland, C(2024) 8110, points 4.2.1, 4.2.7</title>
       <link>https://ec.europa.eu/transparency/documents-request/search/document-details/14763</link>
       <description>
@@ -310,180 +486,52 @@
       <category>FULL_ACCESS</category>
     </item>
     <item>
-      <title>Doc 34 - External Service Provider-related correspondence retrieved from the KOEL platform (in relation to recommendations 34, 35, 36)</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21943</link>
+      <title>Draft template drawn up to provide information about relevant national company legal forms</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21969</link>
       <description>
         &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Doc 34 - External Service Provider-related correspondence retrieved from the KOEL platform (in relation to recommendations 34, 35, 36)&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-03-19&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Doc 34 - External Service Provider-related correspondence retrieved from the KOEL platform (in relation to recommendations 34, 35, 36)&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; HOME&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21943"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21943&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
-      <guid>21943</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>Doc 6 - External Service Provider-related correspondence retrieved from the KOEL platform (in relation to recommendations 62 to 66)</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21944</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Doc 6 - External Service Provider-related correspondence retrieved from the KOEL platform (in relation to recommendations 62 to 66)&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-03-19&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Doc 6 - External Service Provider-related correspondence retrieved from the KOEL platform (in relation to recommendations 62 to 66)&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; HOME&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21944"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21944&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
-      <guid>21944</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>Doc 50 - External Service Provider-related “E-mail-points” sent on 12/05/2023 (Websites (for Bissau); Infrastructure at the external service provider (Bissau)) (Ares(2023)3332470)</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21946</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Doc 50 - External Service Provider-related “E-mail-points” sent on 12/05/2023 (Websites (for Bissau); Infrastructure at the external service provider (Bissau)) (Ares(2023)3332470)&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-03-19&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Doc 50 - External Service Provider-related “E-mail-points” sent on 12/05/2023 (Websites (for Bissau); Infrastructure at the external service provider (Bissau)) (Ares(2023)3332470)&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; HOME&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21946"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21946&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
-      <guid>21946</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>Doc 25 - External Service Provider-related “E-mail-points” sent on 19/09/2024 to Ms Orsolya Zold ((MFA) (Points: Information to the public; CISO; External service provider (Beijing); External service provider (Bishkek))</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21948</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Doc 25 - External Service Provider-related “E-mail-points” sent on 19/09/2024 to Ms Orsolya Zold ((MFA) (Points: Information to the public; CISO; External service provider (Beijing); External service provider (Bishkek))&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-03-19&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Doc 25 - External Service Provider-related “E-mail-points” sent on 19/09/2024 to Ms Orsolya Zold ((MFA) (Points: Information to the public; CISO; External service provider (Beijing); External service provider (Bishkek))&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Draft template drawn up to provide information about relevant national company legal forms&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-23&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Draft template drawn up to provide information about relevant national company legal forms&lt;/p&gt;
         &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; HOME&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21948"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21948&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; JUST&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21969"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21969&lt;/a&gt;&lt;/p&gt;
         ]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
-      <guid>21948</guid>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 -0000</pubDate>
+      <guid>21969</guid>
       <category>FULL_ACCESS</category>
     </item>
     <item>
-      <title>Doc 30 - External Service Provider-related findings from the Annex to the Commission Implementing Decision establishing the report of the 2023 Schengen evaluation of Latvia, C(2024) 2700, “Data protection aspects of the visa issuing procedure” under 4.1</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21950</link>
+      <title>ICLEG_ 28th regime  30.4 FINAL.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21970</link>
       <description>
         &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Doc 30 - External Service Provider-related findings from the Annex to the Commission Implementing Decision establishing the report of the 2023 Schengen evaluation of Latvia, C(2024) 2700, “Data protection aspects of the visa issuing procedure” under 4.1&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-03-19&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Doc 30 - External Service Provider-related findings from the Annex to the Commission Implementing Decision establishing the report of the 2023 Schengen evaluation of Latvia, C(2024) 2700, “Data protection aspects of the visa issuing procedure” under 4.1&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; ICLEG_ 28th regime  30.4 FINAL.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-23&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; ICLEG_ 28th regime  30.4 FINAL.pdf&lt;/p&gt;
         &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; HOME&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21950"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21950&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; JUST&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21970"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21970&lt;/a&gt;&lt;/p&gt;
         ]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
-      <guid>21950</guid>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 -0000</pubDate>
+      <guid>21970</guid>
       <category>FULL_ACCESS</category>
     </item>
     <item>
-      <title>Doc 40 - External Service Provider-related findings from the Annex to the Commission Implementing Decision establishing the report of the 2023 revisit of the Netherlands on the application of the Schengen acquis in the field of the common visa policy, C(2023) 5101, point 3</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21952</link>
+      <title>EASE 2025-5505 - Reply to confirmatory request - Decision C(2026)2480_Redacted.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21974</link>
       <description>
         &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Doc 40 - External Service Provider-related findings from the Annex to the Commission Implementing Decision establishing the report of the 2023 revisit of the Netherlands on the application of the Schengen acquis in the field of the common visa policy, C(2023) 5101, point 3&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-03-19&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Doc 40 - External Service Provider-related findings from the Annex to the Commission Implementing Decision establishing the report of the 2023 revisit of the Netherlands on the application of the Schengen acquis in the field of the common visa policy, C(2023) 5101, point 3&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; EASE 2025-5505 - Reply to confirmatory request - Decision C(2026)2480_Redacted.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-04-10&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; EASE 2025-5505 - Reply to confirmatory request - Decision C(2026)2480_Redacted.pdf&lt;/p&gt;
         &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; HOME&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21952"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21952&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; JUST&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21974"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21974&lt;/a&gt;&lt;/p&gt;
         ]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
-      <guid>21952</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 -0000</pubDate>
+      <guid>21974</guid>
       <category>FULL_ACCESS</category>
-    </item>
-    <item>
-      <title>Doc 46 - External Service Provider-related correspondence retrieved from the KOEL platform regarding this evaluation (in relation to recommendations 2, 3, 5, 6)</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21953</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Doc 46 - External Service Provider-related correspondence retrieved from the KOEL platform regarding this evaluation (in relation to recommendations 2, 3, 5, 6)&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-03-19&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Doc 46 - External Service Provider-related correspondence retrieved from the KOEL platform regarding this evaluation (in relation to recommendations 2, 3, 5, 6)&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; HOME&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21953"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21953&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
-      <guid>21953</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>Doc 31 - External Service Provider-related correspondence retrieved from the KOEL platform (in relation to recommendation 53)</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21955</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Doc 31 - External Service Provider-related correspondence retrieved from the KOEL platform (in relation to recommendation 53)&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-03-19&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Doc 31 - External Service Provider-related correspondence retrieved from the KOEL platform (in relation to recommendation 53)&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; HOME&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21955"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21955&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
-      <guid>21955</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>Doc 18 - External Service Provider-related findings, C(2020) 4300, points 3.1.1, 3.2.3, 5.2.1, 5.3.2</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21958</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Doc 18 - External Service Provider-related findings, C(2020) 4300, points 3.1.1, 3.2.3, 5.2.1, 5.3.2&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-03-19&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Doc 18 - External Service Provider-related findings, C(2020) 4300, points 3.1.1, 3.2.3, 5.2.1, 5.3.2&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; HOME&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21958"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21958&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
-      <guid>21958</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>Doc 49 - External Service Provider-related correspondence retrieved from the KOEL platform (in relation to recommendations 4 and 17 to 29)</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21962</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Doc 49 - External Service Provider-related correspondence retrieved from the KOEL platform (in relation to recommendations 4 and 17 to 29)&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-03-19&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Doc 49 - External Service Provider-related correspondence retrieved from the KOEL platform (in relation to recommendations 4 and 17 to 29)&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; HOME&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21962"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21962&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
-      <guid>21962</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>Doc 38 - External Service Provider-related findings from the Annex to the Commission Implementing Decision establishing the report of the 2022 evaluation of the Netherlands on the application of the Schengen acquis in the field of the common visa policy, C(2022) 6600, points 3.2.1, 3.3.1, 4.1</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21966</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Doc 38 - External Service Provider-related findings from the Annex to the Commission Implementing Decision establishing the report of the 2022 evaluation of the Netherlands on the application of the Schengen acquis in the field of the common visa policy, C(2022) 6600, points 3.2.1, 3.3.1, 4.1&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-03-19&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Doc 38 - External Service Provider-related findings from the Annex to the Commission Implementing Decision establishing the report of the 2022 evaluation of the Netherlands on the application of the Schengen acquis in the field of the common visa policy, C(2022) 6600, points 3.2.1, 3.3.1, 4.1&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; HOME&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21966"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21966&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
-      <guid>21966</guid>
-      <category>PARTIAL</category>
     </item>
     <item>
       <title>5. Eni S.p.A. - Delegated Reg. Carbon Farming</title>
@@ -3955,54 +4003,6 @@
         ]]&gt;</description>
       <pubDate>Mon, 02 Feb 2026 00:00:00 -0000</pubDate>
       <guid>21722</guid>
-      <category>FULL_ACCESS</category>
-    </item>
-    <item>
-      <title>EJP use cases E27 Featured partners</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21724</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; EJP use cases E27 Featured partners&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-02&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; EJP use cases E27 Featured partners&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; JUST&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21724"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21724&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 00:00:00 -0000</pubDate>
-      <guid>21724</guid>
-      <category>FULL_ACCESS</category>
-    </item>
-    <item>
-      <title>EJP use cases E15 Regions and multilingualism</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21725</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; EJP use cases E15 Regions and multilingualism&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-02&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; EJP use cases E15 Regions and multilingualism&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; JUST&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21725"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21725&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 00:00:00 -0000</pubDate>
-      <guid>21725</guid>
-      <category>FULL_ACCESS</category>
-    </item>
-    <item>
-      <title>EJP use cases E01 Structuring</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/21726</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; EJP use cases E01 Structuring&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-02-02&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; EJP use cases E01 Structuring&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; JUST&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/21726"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/21726&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Mon, 02 Feb 2026 00:00:00 -0000</pubDate>
-      <guid>21726</guid>
       <category>FULL_ACCESS</category>
     </item>
   </channel>
