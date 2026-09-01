@@ -4,7 +4,167 @@
     <title>EU Documents RSS Feed</title>
     <link>https://raw.githubusercontent.com/rkoens/ease/main/feed.xml</link>
     <description>Latest documents from the EU Transparency Portal</description>
-    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 -0000</lastBuildDate>
+    <item>
+      <title>Document 1_3.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/26046</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Document 1_3.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-08-19&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Document 1_3.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; MOVE&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/26046"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/26046&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 -0000</pubDate>
+      <guid>26046</guid>
+      <category>FULL_ACCESS</category>
+    </item>
+    <item>
+      <title>Document 1.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/26047</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Document 1.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-08-19&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Document 1.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; MOVE&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/26047"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/26047&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 -0000</pubDate>
+      <guid>26047</guid>
+      <category>PARTIAL</category>
+    </item>
+    <item>
+      <title>Document 5_1.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/26048</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Document 5_1.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-08-19&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Document 5_1.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; MOVE&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/26048"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/26048&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 -0000</pubDate>
+      <guid>26048</guid>
+      <category>FULL_ACCESS</category>
+    </item>
+    <item>
+      <title>Document 1_1.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/26049</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Document 1_1.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-08-19&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Document 1_1.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; MOVE&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/26049"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/26049&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 -0000</pubDate>
+      <guid>26049</guid>
+      <category>FULL_ACCESS</category>
+    </item>
+    <item>
+      <title>Document 2</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/26050</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Document 2&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-08-19&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Document 2&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; MOVE&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/26050"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/26050&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 -0000</pubDate>
+      <guid>26050</guid>
+      <category>PARTIAL</category>
+    </item>
+    <item>
+      <title>Document 5.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/26051</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Document 5.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-08-19&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Document 5.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; MOVE&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/26051"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/26051&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 -0000</pubDate>
+      <guid>26051</guid>
+      <category>PARTIAL</category>
+    </item>
+    <item>
+      <title>Document 1_2.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/26052</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Document 1_2.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-08-19&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Document 1_2.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; MOVE&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/26052"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/26052&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 -0000</pubDate>
+      <guid>26052</guid>
+      <category>FULL_ACCESS</category>
+    </item>
+    <item>
+      <title>EASE 2026-2223 Confirmatory decision C(2026)6222_Redacted.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/26092</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; EASE 2026-2223 Confirmatory decision C(2026)6222_Redacted.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-09-01&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; EASE 2026-2223 Confirmatory decision C(2026)6222_Redacted.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; SG&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/26092"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/26092&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 -0000</pubDate>
+      <guid>26092</guid>
+      <category>FULL_ACCESS</category>
+    </item>
+    <item>
+      <title>Confirmatory Decision EASE 2026-2174 C(2026) 6221_Redacted.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/26091</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Confirmatory Decision EASE 2026-2174 C(2026) 6221_Redacted.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-09-01&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Confirmatory Decision EASE 2026-2174 C(2026) 6221_Redacted.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; SG&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/26091"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/26091&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 -0000</pubDate>
+      <guid>26091</guid>
+      <category>FULL_ACCESS</category>
+    </item>
+    <item>
+      <title>3. Medical committee appeal file.pdf</title>
+      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/26090</link>
+      <description>
+        &lt;![CDATA[
+        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; 3. Medical committee appeal file.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-08-20&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; 3. Medical committee appeal file.pdf&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; SG&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/26090"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/26090&lt;/a&gt;&lt;/p&gt;
+        ]]&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 -0000</pubDate>
+      <guid>26090</guid>
+      <category>PARTIAL</category>
+    </item>
     <item>
       <title>13.3.5 ZiP file entitled “Doc. Withania Somnifera.zip”: Scientific study contained in the ZiP file</title>
       <link>https://ec.europa.eu/transparency/documents-request/search/document-details/26063</link>
@@ -612,118 +772,6 @@
       <pubDate>Mon, 24 Aug 2026 00:00:00 -0000</pubDate>
       <guid>26053</guid>
       <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>Document 1_3.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/26046</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Document 1_3.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-08-19&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Document 1_3.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; MOVE&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/26046"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/26046&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 -0000</pubDate>
-      <guid>26046</guid>
-      <category>FULL_ACCESS</category>
-    </item>
-    <item>
-      <title>Document 1.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/26047</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Document 1.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-08-19&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Document 1.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; MOVE&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/26047"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/26047&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 -0000</pubDate>
-      <guid>26047</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>Document 5_1.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/26048</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Document 5_1.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-08-19&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Document 5_1.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; MOVE&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/26048"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/26048&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 -0000</pubDate>
-      <guid>26048</guid>
-      <category>FULL_ACCESS</category>
-    </item>
-    <item>
-      <title>Document 1_1.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/26049</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Document 1_1.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-08-19&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Document 1_1.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; MOVE&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/26049"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/26049&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 -0000</pubDate>
-      <guid>26049</guid>
-      <category>FULL_ACCESS</category>
-    </item>
-    <item>
-      <title>Document 2</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/26050</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Document 2&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-08-19&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Document 2&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; MOVE&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/26050"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/26050&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 -0000</pubDate>
-      <guid>26050</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>Document 5.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/26051</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Document 5.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-08-19&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Document 5.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; MOVE&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/26051"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/26051&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 -0000</pubDate>
-      <guid>26051</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>Document 1_2.pdf</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/26052</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Document 1_2.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2026-08-19&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; Document 1_2.pdf&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; FULL_ACCESS&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; MOVE&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/26052"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/26052&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 -0000</pubDate>
-      <guid>26052</guid>
-      <category>FULL_ACCESS</category>
     </item>
     <item>
       <title>Document 4</title>
@@ -3955,54 +4003,6 @@
         ]]&gt;</description>
       <pubDate>Thu, 03 Apr 2025 00:00:00 -0000</pubDate>
       <guid>14990</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>C-139-22 Commission observations_FR_Redacted</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/14991</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; C-139-22 Commission observations_FR_Redacted&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-04-03&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; C-139-22 Commission observations_FR_Redacted&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; SJ&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/14991"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/14991&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Thu, 03 Apr 2025 00:00:00 -0000</pubDate>
-      <guid>14991</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>C-6-22 Commission observations_FR_Redacted</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/14992</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; C-6-22 Commission observations_FR_Redacted&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-04-03&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; C-6-22 Commission observations_FR_Redacted&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; SJ&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/14992"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/14992&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Thu, 03 Apr 2025 00:00:00 -0000</pubDate>
-      <guid>14992</guid>
-      <category>PARTIAL</category>
-    </item>
-    <item>
-      <title>C-224-19 and C-259-19 Commission observations_FR_Redacted</title>
-      <link>https://ec.europa.eu/transparency/documents-request/search/document-details/14993</link>
-      <description>
-        &lt;![CDATA[
-        &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; C-224-19 and C-259-19 Commission observations_FR_Redacted&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2025-04-03&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt; C-224-19 and C-259-19 Commission observations_FR_Redacted&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Type of disclosure:&lt;/strong&gt; PARTIAL&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Disclosed by:&lt;/strong&gt; SJ&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://ec.europa.eu/transparency/documents-request/search/document-details/14993"&gt;https://ec.europa.eu/transparency/documents-request/search/document-details/14993&lt;/a&gt;&lt;/p&gt;
-        ]]&gt;</description>
-      <pubDate>Thu, 03 Apr 2025 00:00:00 -0000</pubDate>
-      <guid>14993</guid>
       <category>PARTIAL</category>
     </item>
   </channel>
